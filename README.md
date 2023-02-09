@@ -15,4 +15,4 @@ We will explore the relationships between various parameters using graphs like b
 * Future Work.
 * References.
 
-Project Link : [Project Link] (https://jovian.com/shwetsagashe/project-2-exploratory-data-analysis)
+Project Link : [Project Link](https://jovian.com/shwetsagashe/project-2-exploratory-data-analysis)
